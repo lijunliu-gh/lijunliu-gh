@@ -28,12 +28,10 @@ I run [**RoundTable AI Lab**](https://www.roundtableailab.org) as an independent
 
 ### 🛠️ Agentic Coding Projects
 
-<a href="https://github.com/lijunliu-gh/auto-ppt-engine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lijunliu-gh&repo=auto-ppt-engine&theme=transparent" />
-</a>
-<a href="https://github.com/lijunliu-gh/ai-news-digest">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lijunliu-gh&repo=ai-news-digest&theme=transparent" />
-</a>
+| Project | Description |
+|---|---|
+| [**auto-ppt-engine**](https://github.com/lijunliu-gh/auto-ppt-engine) | Open-source PowerPoint generation engine — MCP + CLI + Docker. Built to be called by AI agents. |
+| [**ai-news-digest**](https://github.com/lijunliu-gh/ai-news-digest) | Trilingual AI news digest — automated daily refresh, dark/light mode, zero build dependencies. |
 
 ### ⚔️ Arsenal
 
