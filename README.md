@@ -51,15 +51,6 @@ I run [**RoundTable AI Lab**](https://www.roundtableailab.org) as an independent
 
 > *More articles on [LinkedIn](https://linkedin.com/in/lijun-liu) — published in EN · 中文 · 日本語*
 
-### 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lijunliu-gh&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijunliu-gh&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
-
 <p align="center">
   <em>The round table has room for everyone — developers, business professionals, researchers, and entrepreneurs.</em><br/>
   <em>If you're curious about AI tools or building something interesting, <a href="mailto:contact@roundtableailab.org">take a seat</a>.</em>
