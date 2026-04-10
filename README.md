@@ -22,7 +22,7 @@ I run [**RoundTable AI Lab**](https://www.roundtableailab.org) as an independent
 | | Project | Description |
 |---|---|---|
 | 🔬 | **AI Tools Research** | Evaluating AI coding assistants & agents — Claude Code, GitHub Copilot, Codex, and beyond |
-| 🐾 | **[OpenClaw](https://github.com/lijunliu-gh/agent-framework)** | Multi-agent framework where each agent is a Knight of the Round Table — King Arthur orchestrates, Merlin observes |
+| 🐾 | **[OpenClaw](https://github.com/openclaw/openclaw)** | Multi-agent framework where each agent is a Knight of the Round Table — King Arthur orchestrates, Merlin observes |
 | 🌏 | **Multilingual Publishing** | Writing about AI in English, 中文, and 日本語 — breaking the language barrier |
 | 🤖 | **Agentic Coding** | Co-coding with AI every day to explore what non-traditional developers can build |
 
