@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.roundtableailab.org">🌐 RoundTable AI Lab</a> ·
   <a href="https://linkedin.com/in/lijun-liu">💼 LinkedIn</a> ·
-  <a href="https://x.com/LancelotRT_AI">𝕏 Twitter</a>
+  <a href="https://x.com/RoundTableAILab">𝕏 Twitter</a>
 </p>
 
 ---
